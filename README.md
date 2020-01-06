@@ -5,6 +5,7 @@ You can get the Python source code from the `src` folder.
 
 | # | Title | Difficulty |
 |---| ----- | ---------- |
+|3|[Longest Substring Without Repeating Characters](https://github.com/RidingRoad/LeetCodeSolvedByPython/issues/3)|Medium|
 |2|[Add Two Numbers](https://github.com/RidingRoad/LeetCodeSolvedByPython/issues/2)|Medium|
 |1|[Two Sum](https://github.com/RidingRoad/LeetCodeSolvedByPython/issues/1)|Simple|
 
